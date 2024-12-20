@@ -1,0 +1,1 @@
+({i}) {point.x}:{point.y}({i}) {point.x}:{point.y}({i}) {point.x}:{point.y}({i}) {point.x}:{point.y}
